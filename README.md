@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Fouzan Asif, an Associate Fullstack Developer (.NET + Angular + Azure + SQL)
+- 👀 I’m interested in thinking and implementing software design ideas
+- 🌱 I’m currently into 3 Verticals simultaneously => Data Science (Deep Learning and Generative AI), Web Development, and Quality Assurance.
+- 💞️ I’m looking to collaborate on literally anything I can help with because learning curve should mimic the graph of tan(x) or e^x
+- 📫 How to reach me? You can mail me at mfouzan.asif@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: There's no fun in facts... HEH
