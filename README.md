@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fouzan Asif, an Associate Fullstack Developer (.NET + Angular + Azure + SQL)
+- 👋 Hi, I’m Fouzan Asif, an Junior Fullstack Developer with over an year of experience in .NET + Angular + Azure + SQL.
 - 👀 I’m interested in thinking and implementing software design ideas
 - 🌱 I’m currently into 3 Verticals simultaneously => Data Science (Deep Learning and Generative AI), Web Development, and Quality Assurance.
 - 💞️ I’m looking to collaborate on literally anything I can help with because learning curve should mimic the graph of tan(x) or e^x
